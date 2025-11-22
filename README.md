@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pasindujayasinghe2004&label=Profile%20views&color=0e75b6&style=flat" alt="pasindujayasinghe2004" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+developer+;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindujayasinghe2004" alt="pasindujayasinghe2004" /></a> </p>
 
