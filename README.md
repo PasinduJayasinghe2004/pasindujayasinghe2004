@@ -42,21 +42,21 @@
 
   **🔥 Core Technologies**<br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,MySQL" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,mysql,mongodb" />
   </a>
 
   <br/>
 
   **⚡ Frameworks & Libraries**<br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,java springboot" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
   </a>
 
   <br/>
 
   **🛠 Tools & Platforms**<br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,docker,aws,postman" />
   </a>
 
 </div>
