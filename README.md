@@ -1,43 +1,87 @@
-<h1 align="center">Hi 👋, I'm Pasindu Jayasinghe</h1>
-<h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasindujayasinghe2004&label=Profile%20views&color=0e75b6&style=flat" alt="pasindujayasinghe2004" /> </p>
-<p align="center">
-	<a href="https://github.com/pasindujayasinghe2004">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=thiviru&label=Profile%20Views&color=0e75b6&style=flat" alt="thiviru" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindujayasinghe2004" alt="pasindujayasinghe2004" /></a> </p>
+  <h1>Hey there, I'm Pasindu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-- 🔭 I’m currently working on **TheatreX Project**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=CS+Undergraduate+%40+IIT;Building+NexAttend+%F0%9F%9A%80;Java+%7C+Python+%7C+React;Web+%26+Software+Enthusiast" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Java,React,MySQL,DSA and AI**
+  <br/>
 
-- 📫 How to reach me **pasindu.20241670@iit.ac.lk**
+  <a href="mailto:madubashap98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiviru-igalawithana-47b652349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/pasii_mj/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://web.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-- ⚡ Fun fact **Call me as Pasindu**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pasindu-jayasinghe-376209353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu jayasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/pasindu madubashana jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasindu madubashana jayasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/pasiii_mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasiii_mj" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><br>
-  
-[![Pasindu's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pasindujayasinghe2004&theme=tokyonight)](https://git.io/praveenscience)
+### 👨‍💻 About Me
 
-| ![Pasindu's github stats](https://github-readme-stats.vercel.app/api?username=pasindujayasinghe2004&show_icons=true&theme=tokyonight) | ![Pasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasindujayasinghe2004&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayasinghe2004&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pasindujayasinghe2004&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+- 🏫 **University:** 2nd year CS student at **IIT Sri Lanka** (University of Westminster).
+- 🔭 **Current Project:** Building **NexAttend** – A smart attendance system using multi-face recognition. (www.nexattend.com)
+- 🌱 **Learning:** Deepening my understanding of **Algorithms** and **Full Stack Architecture**.
+- 💬 **Goal:** To create software that solves real-world problems while mastering the art of clean code.
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+---
 
+### 💻 Technologies & Tools
 
-<br></p>
+<div align="center">
 
+  **🔥 Core Technologies**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,MySQL" />
+  </a>
+
+  <br/>
+
+  **⚡ Frameworks & Libraries**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,springboot" />
+  </a>
+
+  <br/>
+
+  **🛠 Tools & Platforms**<br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,docker" />
+  </a>
+
+</div>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindujayasinghe2004&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%"/>
+
+  <br/><br/>
+
+ ### 📈 GitHub Stats
+
+![pasindu's Stats](https://github-readme-stats.vercel.app/api?username=pasindujayasinghe2004&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayasinghe2004&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br />
+  <i>Thanks for visiting! Let's build something great together. 🚀</i>
+</div>
