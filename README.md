@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=thiviru&label=Profile%20Views&color=0e75b6&style=flat" alt="thiviru" />
+  <img src="https://komarev.com/ghpvc/?username=thiviru&label=Profile%20Views&color=0e75b6&style=flat" alt="PASINDU" />
 
   <h1>Hey there, I'm Pasindu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
@@ -11,7 +11,7 @@
   <a href="mailto:madubashap98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/thiviru-igalawithana-47b652349/">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/pasii_mj/">
@@ -30,7 +30,7 @@
 ### 👨‍💻 About Me
 
 - 🏫 **University:** 2nd year CS student at **IIT Sri Lanka** (University of Westminster).
-- 🔭 **Current Project:** Building **NexAttend** – A smart attendance system using multi-face recognition. (www.nexattend.com)
+- 🔭 **Current Project:** Building **Hospital Theatre smart scheduling System. (www.theatrex.lk)
 - 🌱 **Learning:** Deepening my understanding of **Algorithms** and **Full Stack Architecture**.
 - 💬 **Goal:** To create software that solves real-world problems while mastering the art of clean code.
 
