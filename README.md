@@ -4,7 +4,7 @@
 
   <h1>Hey there, I'm Pasindu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=CS+Undergraduate+%40+IIT;Building+NexAttend+%F0%9F%9A%80;Java+%7C+Python+%7C+React;Web+%26+Software+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=CS+Undergraduate+%40+IIT;Building+Theatre sheduling System+%F0%9F%9A%80;Java+%7C+Python+%7C+React;Web+%26+Software+Enthusiast" alt="Typing SVG" />
 
   <br/>
 
