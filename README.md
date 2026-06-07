@@ -42,14 +42,14 @@
 
   **🔥 Core Technologies**<br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php,mysql,mongodb,numpy,pandas" />
   </a>
 
   <br/>
 
   **⚡ Frameworks & Libraries**<br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,flask" />
   </a>
 
   <br/>
