@@ -63,22 +63,6 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindujayasinghe2004&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" width="100%"/>
-
-  <br/><br/>
-
- ### 📈 GitHub Stats
-
-![pasindu's Stats](https://github-readme-stats.vercel.app/api?username=pasindujayasinghe2004&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindujayasinghe2004&layout=compact&theme=tokyonight&hide_border=true)
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
